@@ -1,0 +1,65 @@
+#pwd command is used to print the path of the current working directory.
+
+#mv command is used to move a file to a specified file.
+
+#touch command is used to create a file.
+
+#mkdir command is used to create a directory.
+
+#ls command is used to list files in a certain directory.
+
+#cp command is used to copy contents of a file to a specified file.
+
+#rm command is used to delete a file.
+
+#rm -r command is used to delete a directory with some contents in it(non-empty directory).
+
+#rmdir command is used to delete empty directory.
+
+#diff command is used to display the difference of specified files.
+
+#cd .. command is used to move back one directory.
+
+#cd command is used to change directory to a specified directory or to move from root directory to home directory.
+
+#finger command is used to inspect another user.
+
+#man command is used to display the details of other commands.
+
+#head command is used to see the beginning of a file.
+
+#tail command is used to see the end of a file.
+
+#chmod u+x command is used to make a file to be executable.
+
+#cat command is used to see the contents of a file.
+
+#echo command is used to add or write something into a file.
+
+#ls -l comand is used to give a nice list of files.
+
+#ls -al command is used to see hidden details.
+
+#shred command is used to hide contents in a file.
+
+#su command is used switch the user.
+
+#ssh command is used to connect to the linux machine.
+
+#clear command is used to get rid the contents in the terminal.
+
+#less command is used to display contents of a file per page(performs the same function as cat command).
+
+#chown command is used to change the ownership of a file by specifying the user.
+
+#curl command is used to download various resources from internet by giving the URL of the document to be downloaded.
+
+#ln -s command creates a link to a certain file.
+
+#ifconfig command is used to see the ip address(ip address comand can also be used).
+
+#zip command is used to fold a file.
+
+#unzip command is used to unfold a file.
+
+#sort command is used to sort something alphabetically.
